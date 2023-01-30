@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">VoiceToTouch</string>
+    <string name="voice_command">Voice Command</string>
+    <string name="start_service">Start Service</string>
 </resources>
